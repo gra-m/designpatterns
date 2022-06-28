@@ -1,7 +1,5 @@
 package _01Singleton.double_lock4;
 
-import javax.swing.*;
-
 public class DoubleLock {
     private static DoubleLock doubleLock;
 
